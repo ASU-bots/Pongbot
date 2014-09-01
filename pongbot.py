@@ -1,6 +1,5 @@
 """
 Module for botting pong.
-
 """
 
 import time
