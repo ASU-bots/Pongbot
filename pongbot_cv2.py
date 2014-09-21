@@ -1,3 +1,7 @@
+"""
+Same as the other pongbot, but now I can get into more detail.
+"""
+
 from pbl import screen_grab
 from multiprocessing import Process
 
