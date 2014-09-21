@@ -1,5 +1,7 @@
 """
 Same as the other pongbot, but now I can get into more detail.
+
+A lot of the code is thanks to this site: http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html
 """
 
 from pbl import screen_grab
